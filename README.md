@@ -8,6 +8,7 @@ Python | ArcGIS Pro | ArcPy | GeoPandas | OpenLayers | PostGIS | React
 
 #### 🗺️ Featured Projects
 - [Site Navigation Interactive map (React + Maplibre) ](https://github.com/KD-96/irondequoit-garden-walks-v2)
+- [Matching Algorithm to detect trees (Python)](https://github.com/KD-96/banana-tree-detection)
 - [Land Use Dashboard (React + Mapbox)](https://github.com/KD-96/tour-routing-v3)
 - [Interactive map portal (React + Mab)](https://github.com/KD-96/creators-map-3)
   

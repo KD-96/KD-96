@@ -48,10 +48,7 @@ Python | ArcGIS Pro | ArcPy | GeoPandas | OpenLayers | PostGIS | React
   <!-- GIS & Mapping -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mapbox/mapbox-original.svg" height="40" alt="mapbox logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leaflet/leaflet-original.svg" height="40" alt="leaflet logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openlayers/openlayers-original.svg" height="40" alt="openlayers logo" />
-  <img width="12" />
+
 </div>
 <!--
 **KD-96/KD-96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
